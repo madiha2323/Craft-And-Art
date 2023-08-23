@@ -1,4 +1,4 @@
-![t8](https://github.com/madiha2323/Craft-And-Art/assets/109577656/875a37c1-7db1-47c0-9f1c-35aa650d2302)# Arts and Craft
+# Arts and Craft
 
 ![Arts and Craft]
 
@@ -41,14 +41,20 @@ https://github.com/madiha2323/arts-and-craft
 
 Contributions are more than welcome! If you're interested in contributing to the project, follow these steps:
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix: 
-   #images
+2. Create a new branch for your feature or bug fix:
+
+## Images
+
+
 ![t1](https://github.com/madiha2323/Craft-And-Art/assets/109577656/bfcdaa95-9562-43fc-a5cd-de0b4edc0135)
 ![t2](https://github.com/madiha2323/Craft-And-Art/assets/109577656/57fef9fa-4db9-47eb-93b7-896695b5c46c)
 ![t3](https://github.com/madiha2323/Craft-And-Art/assets/109577656/8ce88825-865f-4a31-8331-427c6c0e7d0c)
 ![t4](https://github.com/madiha2323/Craft-And-Art/assets/109577656/14f3a966-9773-475d-b5e5-b21efa5bbfea)
-![t5](https://github.com/madiha2323/Craft-And-Art/assets/109577656/031ed7fc-fd02-46db-87de-daab608ee9cf)
+![t5](https://github.com/madiha2323/Craft-And-Art/assets/109577656/031ed7fc-fd02-46db-87de-daab608ee9cf)!
 ![t6](https://github.com/madiha2323/Craft-And-Art/assets/109577656/56a804ea-ed69-4673-b4d6-202ebc1cd389)
+[t7](https://github.com/madiha2323/Craft-And-Art/assets/109577656/f77facb5-de48-4b05-8d15-423cc636177d)
 
+![t8](https://github.com/madiha2323/Craft-And-Art/assets/109577656/875a37c1-7db1-47c0-9f1c-35aa650d2302)
+   
 
    
